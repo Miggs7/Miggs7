@@ -1,5 +1,3 @@
-# README.md
-
 <h1 align="center">Hi 👋, I'm Miguel Tavares</h1>
 <h3 align="center">The Keyboard Smasher</h3>
 
